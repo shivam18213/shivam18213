@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam18213&label=Profile%20views&color=0e75b6&style=flat" alt="shivam18213" /> </p>
 
 
-- 🔭 I’m currently working on **C++, Java**
+- 🔭 I’m currently working on **C++, Java, Python**
 
 - 🌱 I’m currently learning **Machine Learning**
 
