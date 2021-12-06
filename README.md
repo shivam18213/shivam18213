@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Web Development and Data Science**
+- 👯 I’m looking to collaborate on **Hackathons And Projects**
 
-- 🤝 I’m looking for help with **Hackathons And Projects**
+- 🤝 I’m looking for help with **Web Development and Data Science**
 
 - 📫 How to reach me **sb18213@gmail.com**
 
