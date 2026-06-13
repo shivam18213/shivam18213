@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **CPython Java**
+- 🔭 I’m currently working on **Python, Java**
 
 - 🌱 I’m currently learning **Machine Learning**
 
